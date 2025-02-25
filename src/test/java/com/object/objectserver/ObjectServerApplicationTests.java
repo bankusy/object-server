@@ -8,6 +8,7 @@ class ObjectServerApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println(String.format("HM%010d", 103));
     }
 
 }
